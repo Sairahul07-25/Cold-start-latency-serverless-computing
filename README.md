@@ -1,3 +1,5 @@
+Serverless Computing : Serverless computing is an application development and execution model that allows developers to build and run code without provisioning or managing servers or back-end infrastructure.
+
 ### **1. Configure AWS CLI**
 
 Before we start, make sure your **AWS CLI** is configured correctly with your AWS credentials.

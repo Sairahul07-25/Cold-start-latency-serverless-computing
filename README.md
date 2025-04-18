@@ -1,4 +1,8 @@
+
+Serverless Computing : Serverless computing is an application development and execution model that allows developers to build and run code without provisioning or managing servers or back-end infrastructure.
+
 Cold start latency: Cold start latency refers to the increased response time experienced when a serverless function or application is invoked after a period of inactivity
+
 
 ### **1. Configure AWS CLI**
 

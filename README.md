@@ -1,3 +1,5 @@
+Cold start latency: Cold start latency refers to the increased response time experienced when a serverless function or application is invoked after a period of inactivity
+
 ### **1. Configure AWS CLI**
 
 Before we start, make sure your **AWS CLI** is configured correctly with your AWS credentials.
